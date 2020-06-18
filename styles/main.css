@@ -11,16 +11,7 @@ h1 {
 body {
   background: #eee; }
 
-li {
-  font-weight: normal; }
-
-.tree {
-  width: 200px; }
-
-.hovered-text {
+span:hover {
   font-weight: bold; }
-
-.closed-tree {
-  display: none; }
 
 /*# sourceMappingURL=main.css.map */
